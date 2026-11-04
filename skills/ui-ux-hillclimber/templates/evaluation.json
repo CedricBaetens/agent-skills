@@ -1,0 +1,17 @@
+{
+  "categories": {
+    "visual": {"score": null, "rationale": "", "evidence": []},
+    "usability": {"score": null, "rationale": "", "evidence": []},
+    "consistency": {"score": null, "rationale": "", "evidence": []},
+    "accessibility": {"score": null, "rationale": "", "evidence": []},
+    "responsive": {"score": null, "rationale": "", "evidence": []},
+    "feedback": {"score": null, "rationale": "", "evidence": []}
+  },
+  "issues": [],
+  "screenshots": {},
+  "checks": [],
+  "confidence": null,
+  "limitations": [],
+  "changes_evidence": {},
+  "resolved_issues": []
+}

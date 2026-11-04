@@ -1,0 +1,29 @@
+{
+  "iterations": 3,
+  "models": {
+    "builder": {"model": null, "reasoning_effort": null},
+    "evaluator": {"model": null, "reasoning_effort": null}
+  },
+  "evaluation": {"max_score": 10, "independent": true},
+  "browser": {
+    "enabled": true,
+    "screenshots": true,
+    "viewports": [
+      {"width": 390, "height": 844},
+      {"width": 768, "height": 1024},
+      {"width": 1440, "height": 900}
+    ]
+  },
+  "optimization": {
+    "max_repairs_per_iteration": 1,
+    "require_regression_checks": true,
+    "rollback_on_regression": true,
+    "preserve_existing_design_system": true
+  },
+  "reporting": {
+    "save_scores": true,
+    "save_screenshots": true,
+    "save_changes": true,
+    "generate_final_report": true
+  }
+}
